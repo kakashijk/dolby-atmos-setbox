@@ -1,0 +1,15 @@
+global audio_performance_mode 
+system bass_boost_enabled 
+system audio_hifi_enabled 
+global dolby_atmos_enabled 
+global dolby_atmos_plus_enabled 
+global dolby_vision_enabled 
+global dolby_atmos_auto_mode 
+global spatial_audio_enabled 
+global vivid_audio_enabled 
+system audio_virtualizer_enabled 
+global perf_dolby_atmos_enabled 
+system hi-res_audio_enabled 
+global persist.audio.vocal.32bit 
+global persist.vendor.audio.format 
+global 32-bit_float_enabled 
