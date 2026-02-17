@@ -9,7 +9,7 @@ global spatial_audio_enabled 1
 global vivid_audio_enabled 1
 system audio_virtualizer_enabled 1
 global perf_dolby_atmos_enabled 1
-system hd_audio_enabled 1
+system hi-res_audio_enabled 1
 global persist.audio.vocal.32bit 1
 global persist.vendor.audio.format 32
 global 32-bit_float_enabled 1
