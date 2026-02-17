@@ -1,0 +1,7 @@
+id=dolby-atmos-setbox
+name=Dolby Atmos Setbox
+description=Dolby Atmos module enables 3D spatial audio optimization to create more vivid, realistic, and immersive sound effects.
+author=kakashijk
+version=v1.0.0
+versionCode=1
+repository=https://github.com/kakashijk/dolby-atmos-setbox
